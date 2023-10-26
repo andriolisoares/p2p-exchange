@@ -1,4 +1,4 @@
-# dns-service
+# p2p-exchange
 
 ## Setup
 
